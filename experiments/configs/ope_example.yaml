@@ -1,0 +1,8 @@
+seed: 42
+dataset:
+  # path or inline stub consumed by eval_ope.py / OPE methods
+  type: stub
+behavior_policy: stub_behavior
+target_policy: stub_target
+
+
